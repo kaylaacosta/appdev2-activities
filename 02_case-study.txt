@@ -1,0 +1,20 @@
+ACTIVIT: CASE STUDY #2
+
+Analysis:
+Several aspects of the project could have been managed more effectively to prevent the current challenges.
+Initially, while the project was meticulously planned, the planning might have lacked depth.
+A thorough plan should include detailed task breakdowns, dependencies, and strategies for handling setbacks.
+
+Secondly, the project deadline might have been overly ambitious. Realistic deadlines, considering the complexity of the work and potential obstacles, are essential.
+
+Additionally, task prioritization appeared to be insufficient. Giving priority to essential tasks could have helped avoid delays.
+Proactive issue resolution is vital. Addressing problems promptly rather than letting them accumulate is crucial for project success.
+Efficient communication among team members, stakeholders, and management is essential for transparency and problem-solving.
+Resource allocation and management should be carefully considered to prevent delays caused by resource shortages.
+
+Furthermore, adopting agile development methodologies could enhance project flexibility and issue identification.
+Implementing continuous integration and testing practices can prevent the accumulation of unresolved issues.
+Identifying and mitigating potential risks early on can minimize project disruptions.
+
+By addressing these areas and learning from past mistakes, future projects can be executed more smoothly.
+Implementing improved processes will enhance project outcomes and reduce delays.
